@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## About me
 
 
-<hr>
 <br>
 
 - CTO and Lead Software Architect at [Oceansoft](https://github.com/ocean-soft)
@@ -37,14 +36,12 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-<hr>
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andre-motta&show_icons=true&count_private=true&theme=tokyonight)
 
 ## Software Engineering / Main Languages and Frameworks
 
-<hr>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,7 +61,6 @@ Here are some ideas to get you started:
 
 ## Connect with me!
 
-<hr>
 <br>
 
 ![Discord](https://dcbadge.vercel.app/api/shield/246021971618430978?compact=true)
@@ -74,7 +70,6 @@ Here are some ideas to get you started:
 
 ## Listening to:
 
-<hr>
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177718352&cover_image=true&theme=novatorem&bar_color=105eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12177718352&redirect=true)
