@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 - CTO and Lead Software Architect at [Oceansoft](https://github.com/ocean-soft)
-- I am a 3rd year `PhD Candidate` at the [North Carolina State University](https://www.ncsu.edu/)
+- I am a 4th year `PhD Candidate` at the [North Carolina State University](https://www.ncsu.edu/)
 - I graduated with honors as a Computer Science BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/).
 - You have free access to my research ideas [here](https://github.com/ai-se/andre-lustosa)
 - I’m currently researching: Optimization, human in the loop algorithms, and how to think outside of the box
