@@ -69,8 +69,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-motta/)
 [![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://alustos.us)
 
-## Listening to:
-
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177718352&cover_image=true&theme=novatorem&bar_color=105eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12177718352&redirect=true)
