@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <br>
--  `PhD` from [North Carolina State University](https://www.ncsu.edu/) in applications of AI towards Software Engineering
+-  PhD from [North Carolina State University](https://www.ncsu.edu/) in applications of AI towards Software Engineering
 - Ex Software Engineering Intern at [Microsoft](https://github.com/microsoft)
 - Ex CTO and Lead Software Engineer at [Oceansoft](https://github.com/ocean-soft)
 - I graduated with honors as a Computer Science BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/).
