@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - I graduated with honors as a Computer Science BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/).
 - You have free access to my research ideas [here](https://github.com/ai-se/andre-lustosa) and my CV [here](https://github.com/andre-motta/curriculum/blob/main/Motta_Resume_R1-1.pdf)
 - I’m currently researching: Search, Optimization, human in the loop algorithms, and how to simplify complex tasks with explainable AI
-- I’m currently open for: `Full Time Software Engineering Positions`
+<!-- - I’m currently open for: `Full Time Software Engineering Positions`
 - Always `learning new things` always `coding new things`.
 <!-- , this is [MY WEBSITE](https://alustos.us).
  You can check my small coding projects [here](https://github.com/andre-motta/random)
