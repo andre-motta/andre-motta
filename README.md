@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- Principal Software Quality Engineer at Red Hat
+- Principal Software Engineer | Team Lead at Red Hat
 - PhD from [North Carolina State University](https://www.ncsu.edu/) in applications of AI towards Software Engineering
 - Ex Software Engineering Intern at [Microsoft](https://github.com/microsoft)
 - Ex CTO and Lead Software Engineer at [Oceansoft](https://github.com/ocean-soft)
