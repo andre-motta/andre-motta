@@ -17,19 +17,16 @@ jobs:
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card_type: stats
-          theme: tokyonight
-          show_icons: true
-          count_private: true
-          output_path: profile/stats.svg
+          card: stats
+          options: show_icons=true&theme=tokyonight&count_private=true
+          path: profile/stats.svg
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card_type: top-langs
-          theme: tokyonight
-          layout: compact
-          output_path: profile/top-langs.svg
+          card: top-langs
+          options: layout=compact&theme=tokyonight&langs_count=8
+          path: profile/top-langs.svg
 
       - name: Commit and push
         run: |
