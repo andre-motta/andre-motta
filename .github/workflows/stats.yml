@@ -1,0 +1,40 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card_type: stats
+          theme: tokyonight
+          show_icons: true
+          count_private: true
+          output_path: profile/stats.svg
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card_type: top-langs
+          theme: tokyonight
+          layout: compact
+          output_path: profile/top-langs.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git diff --staged --quiet || git commit -m "chore: update GitHub stats"
+          git push

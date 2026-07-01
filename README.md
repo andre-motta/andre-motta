@@ -1,75 +1,41 @@
-<h1 align="center">Hi, I'm Andre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Andre Lustosa
 
+**Principal Software Engineer at [Red Hat](https://www.redhat.com/). Building AI infrastructure for every accelerator.**
 
+## About
 
-<!--
-**andre-motta/andre-motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About me
-
-
-<br>
-
-- Principal Software Engineer | Team Lead at Red Hat
+- Principal Software Engineer and Team Lead at Red Hat, Ecosystems
 - PhD from [North Carolina State University](https://www.ncsu.edu/) in applications of AI towards Software Engineering
-- Ex Software Engineering Intern at [Microsoft](https://github.com/microsoft)
-- Ex CTO and Lead Software Engineer at [Oceansoft](https://github.com/ocean-soft)
-- I graduated with honors as a Computer Science BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/).
-- You have free access to my research ideas [here](https://github.com/ai-se/andre-lustosa) and my CV [here](https://github.com/andre-motta/curriculum/blob/main/Motta_Resume_R1-1.pdf)
-- I’m currently researching: Search, Optimization, human in the loop algorithms, and how to simplify complex tasks with explainable AI
-<!-- - I’m currently open for: `Full Time Software Engineering Positions`
-- Always `learning new things` always `coding new things`.
-<!-- , this is [MY WEBSITE](https://alustos.us).
- You can check my small coding projects [here](https://github.com/andre-motta/random)
--->
+- Former Software Engineering Intern at [Microsoft](https://github.com/microsoft)
+- Former CTO and Lead Software Engineer at [Oceansoft](https://github.com/ocean-soft)
+- BSc in Computer Science with honors from [Universidade Federal de Minas Gerais](https://ufmg.br/)
 
-<br>
+[Research](https://github.com/ai-se/andre-lustosa) | [CV](https://github.com/andre-motta/curriculum/blob/main/Motta_Resume_R1-1.pdf) | [Website](https://alustos.us)
 
+## What I'm Building
 
-## Github Stats
+Building AI infrastructure and agentic engineering platforms at Red Hat. My work spans validated container images for AI coding agent harnesses, automated package onboarding pipelines, and CI/CD tooling that enables teams to deploy and operate AI agents at enterprise scale.
 
-<br>
+## Tech Stack
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andre-motta&show_icons=true&count_private=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Software Engineering / Main Languages and Frameworks
+![Podman](https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![Buildah](https://img.shields.io/badge/Buildah-%23CC0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br>
+## GitHub Stats
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+## Connect
 
-
-<br>
-
-
-## Connect with me!
-
-<br>
-
-![Discord](https://dcbadge.vercel.app/api/shield/246021971618430978?compact=true)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_powerlifting/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-motta/)
-[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://alustos.us)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-motta/)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alustos.us)
