@@ -30,10 +30,13 @@ Building AI infrastructure and agentic engineering platforms at Red Hat. My work
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## GitHub Stats
+## Stats
 
 ![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![GitHub Top Languages](./profile/top-langs.svg)
+
+![GitLab Stats](https://alustosa.gitlab.io/gitlab-stats/stats.svg)
+![GitLab Top Languages](https://alustosa.gitlab.io/gitlab-stats/top-langs.svg)
 
 ## Connect
 
