@@ -16,6 +16,11 @@
 
 Building AI infrastructure and agentic engineering platforms at Red Hat. My work spans validated container images for AI coding agent harnesses, automated package onboarding pipelines, and CI/CD tooling that enables teams to deploy and operate AI agents at enterprise scale.
 
+## Projects
+
+- **[tongs](https://github.com/andre-motta/tongs)** — Terminal-native code review TUI for developers who work across GitHub and GitLab. One inbox, syntax-highlighted diffs, inline comments, and approvals, all from your terminal. [tongs.tools](https://tongs.tools)
+- **[Claude Fleet Monitor](https://github.com/andre-motta/claude-fleet-monitor)** — Fleet monitoring dashboard for Claude Code sessions. See all running sessions at a glance, get notified when one needs input, and jump to the right terminal tab instantly.
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
