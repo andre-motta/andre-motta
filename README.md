@@ -1,6 +1,6 @@
 # Andre Lustosa 👋
 
-**Principal Software Engineer & Team Lead at [Red Hat](https://www.redhat.com/)**
+**Staff Engineer & Team Lead at [Red Hat](https://www.redhat.com/)**
 
 Software foundations · Accelerator ecosystems · Developer tools
 
