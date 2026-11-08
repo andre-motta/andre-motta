@@ -1,10 +1,10 @@
 # Andre Lustosa 👋
 
-**Staff Engineer & Team Lead at [Red Hat](https://www.redhat.com/)**
+**Principal Software Engineer at [Red Hat](https://www.redhat.com/) · Staff Engineer & Team Lead, AIPCC**
 
 Software foundations · Accelerator ecosystems · Developer tools
 
-I build reliable software platforms, lead engineering teams, and work in the open. At Red Hat, I lead engineering work on enterprise Python components and accelerator enablement, from package compatibility and cross-architecture validation to software supply chain controls.
+I build reliable software platforms, lead engineering teams, and work in the open. At Red Hat, I serve as Staff Engineer for AI Platform Core Components (AIPCC), where I'm responsible for operational delivery, and I lead the AIPCC Ecosystems team. That work spans enterprise Python components and accelerator enablement, from package compatibility and cross-architecture validation to software supply chain controls.
 
 [Website](https://alustos.us) · [CV](https://alustos.us/cv.html) · [Download CV](https://alustos.us/extra/Andre_Motta_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/andre-motta/) · [Research](https://github.com/andre-motta/research)
 
