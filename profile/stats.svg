@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Andr&#233; Lustosa&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 119, Total Commits  (last year) : 2126, Total PRs: 466, Total Issues: 420, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 119, Total Commits  (last year) : 2137, Total PRs: 466, Total Issues: 420, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 28.739601457365787;
+        stroke-dashoffset: 28.736135670628716;
       }
     }
   
